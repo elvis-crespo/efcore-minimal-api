@@ -1,0 +1,70 @@
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\bin\Debug\net7.0\appsettings.json
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\bin\Debug\net7.0\EFC_MinimalApis.exe
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\bin\Debug\net7.0\EFC_MinimalApis.deps.json
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\bin\Debug\net7.0\EFC_MinimalApis.runtimeconfig.json
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\bin\Debug\net7.0\EFC_MinimalApis.dll
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\bin\Debug\net7.0\EFC_MinimalApis.pdb
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\EFC_MinimalApis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\EFC_MinimalApis.AssemblyInfoInputs.cache
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\EFC_MinimalApis.AssemblyInfo.cs
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\EFC_MinimalApis.csproj.CoreCompileInputs.cache
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\EFC_MinimalApis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\staticwebassets\msbuild.EFC_MinimalApis.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\staticwebassets\msbuild.build.EFC_MinimalApis.props
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EFC_MinimalApis.props
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EFC_MinimalApis.props
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\scopedcss\bundle\EFC_MinimalApis.styles.css
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\EFC_MinimalApis.dll
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\refint\EFC_MinimalApis.dll
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\EFC_MinimalApis.pdb
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\EFC_MinimalApis.genruntimeconfig.cache
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\ref\EFC_MinimalApis.dll
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\EFC_MinimalApis.csproj.AssemblyReference.cache
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\EFC_MinimalApis.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\EFC_MinimalApis.csproj.CopyComplete
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\- '- '-' '''\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\bin\Debug\net7.0\appsettings.json
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\bin\Debug\net7.0\EFC_MinimalApis.exe
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\bin\Debug\net7.0\EFC_MinimalApis.deps.json
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\bin\Debug\net7.0\EFC_MinimalApis.runtimeconfig.json
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\bin\Debug\net7.0\EFC_MinimalApis.dll
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\bin\Debug\net7.0\EFC_MinimalApis.pdb
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\EFC_MinimalApis.csproj.AssemblyReference.cache
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\EFC_MinimalApis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\EFC_MinimalApis.AssemblyInfoInputs.cache
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\EFC_MinimalApis.AssemblyInfo.cs
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\EFC_MinimalApis.csproj.CoreCompileInputs.cache
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\EFC_MinimalApis.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\EFC_MinimalApis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\staticwebassets\msbuild.EFC_MinimalApis.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\staticwebassets\msbuild.build.EFC_MinimalApis.props
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EFC_MinimalApis.props
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EFC_MinimalApis.props
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\scopedcss\bundle\EFC_MinimalApis.styles.css
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\EFC_Mini.1704657A.Up2Date
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\EFC_MinimalApis.dll
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\refint\EFC_MinimalApis.dll
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\EFC_MinimalApis.pdb
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\EFC_MinimalApis.genruntimeconfig.cache
+C:\Users\Elvis Crespo\Documents\Documents\Programación\C#-CURSO\Seccion17_EntityFrameworkCore\EFC_MinimalApis\EFC_MinimalApis\obj\Debug\net7.0\ref\EFC_MinimalApis.dll
